@@ -1,6 +1,7 @@
 import AboutSection from "@/components/AboutSection";
 import Footer from "@/components/Footer";
 import HeroSection from "@/components/HeroSection";
+import LocationMap from "@/components/LocationMaps";
 import MenuSection from "@/components/MenuSection";
 import Navbar from "@/components/Navbar";
 import TestimoniSection from "@/components/TestimoniSection";
@@ -13,6 +14,7 @@ export default function Home() {
       <MenuSection />
       <AboutSection />
       <TestimoniSection />
+      <LocationMap/>
       <Footer/>
     </>
   );

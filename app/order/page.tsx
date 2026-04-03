@@ -19,7 +19,7 @@ interface CartItem extends MenuItem {
 }
 
 // ── Nomor WA Admin
-const NOMOR_WA_ADMIN = "6281234567890"; // ← Ganti nomor WA admin
+const NOMOR_WA_ADMIN = "6281325913225"; // ← Ganti nomor WA admin
 
 // ─────────────────────────────────────────────
 // LEFT PANEL — Menu List
